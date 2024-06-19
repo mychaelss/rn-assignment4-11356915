@@ -1,11 +1,12 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import LoginPgae from "./components/loginpage.js";
+import UserPage from './components/Userpage.js';
 export default function App() {
   return (
     <View style={styles.container}>
     
-      <LoginPgae />
+      <UserPage />
     </View>
   );
 }
