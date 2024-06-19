@@ -40,5 +40,7 @@ This project implements a basic user authentication system with two main compone
   - **Dynamic Content Loading:** Load user-specific content dynamically.
   - **Interactivity:** Enable features like editing profile information and navigation.
   - **Session Management:** Manage user sessions for security.!
-  [user](<my-app/assets/user page.jpeg>)
+  
   ![login ](<my-app/assets/login page.jpeg>)
+
+  ![user](<my-app/assets/user page.jpeg>)
